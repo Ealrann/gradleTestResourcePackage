@@ -1,0 +1,9 @@
+plugins {
+	id 'application'
+}
+
+mainClassName = 'test.main/test.main.Main'
+
+dependencies {
+	implementation project(':test.lib')
+}

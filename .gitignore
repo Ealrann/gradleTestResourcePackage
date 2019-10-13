@@ -1,0 +1,10 @@
+.gradle/
+.metadata
+*.class
+bin/
+build/
+*.log
+jitdump.*
+javacore.*
+*.dmp
+*.trc
